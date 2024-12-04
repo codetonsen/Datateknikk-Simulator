@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "nlohmann-json",
+    "asio",
+    "opencv",
+    "pcl",
+    "g2o"
+  ]
+}
